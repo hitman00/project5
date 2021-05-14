@@ -2,6 +2,11 @@
   <div :class="$style.main">
     <h1>helow world!</h1>
     <a href="#">click me</a>
+    <a href="#">click me</a>
+    <a href="#">click me</a>
+    <a href="#">click me</a>
+    <a href="#">click me</a>
+    <a href="#">click me</a>
   </div>
 </template>
 
