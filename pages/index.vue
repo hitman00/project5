@@ -7,6 +7,8 @@
     <a href="#">click me</a>
     <a href="#">click me</a>
     <a href="#">click me</a>
+    <a href="#">click me</a>
+    <a href="#">click me</a>
   </div>
 </template>
 
